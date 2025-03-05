@@ -33,4 +33,3 @@ public class SoalNo3 {
         return a;
     }
 }
-
